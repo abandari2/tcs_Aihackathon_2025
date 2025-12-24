@@ -1,0 +1,45 @@
+-------------------
+musk
+
+2020/12/01
+muskmama@gmail.com
+married
++91
+25
+3333333333
+CEO
+50000
+600000
+muskmama
+muskmama
+789, space colony
+India
+123456
+-------------------
+trump
+chacha
+2020/01/01
+trumpchacha@gmail.com
+married
++91
+25
+1111111111
+CEO
+50000
+600000
+trumpchacha
+trumpchacha
+0000 colony, 000pur
+India
+123456
+------------------
+image cristinao less than 30K
+------------------
+Notes: 
+=> Accepted case
+   Blur score: 30-35
+   Pixel Size: 30,000
+=> Rejected case
+   Blur score: <30
+   Pixel size: <30K
+------------------
